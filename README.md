@@ -1,5 +1,16 @@
 <h1 align="center">
 [Rust Engineering in Blockchain & AI] <br/> <br/> 1.01^365 = 37.78 | 0.99^365 = 0.026
+  <h2 align="center">
+    <a href="https://twitter.com/jwest951227">
+        <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white">
+    </a>
+    <a href='https://t.me/jwest951227' target="_blank">
+        <img alt='GoogleScholar' src='https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&&color=0181FF'>
+    </a>
+    <a href="mailto:jwest951227@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    </a>
+  </h2>
 </h1>
 
 ```mermaid
