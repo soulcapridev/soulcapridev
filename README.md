@@ -5,7 +5,7 @@
         <img width ="100px" height="40px" src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white">
     </a>
     <a href='https://t.me/jwest951227' target="_blank">
-        <img width ="140px" height="45px" alt='GoogleScholar' src='https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&&color=0181FF'>
+        <img width ="140px" height="43px" alt='GoogleScholar' src='https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&&color=0181FF'>
     </a>
     <a href="mailto:jwest951227@gmail.com">
         <img width ="100px" height="40px" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
