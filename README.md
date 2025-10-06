@@ -5,7 +5,7 @@
         <img width ="65px" height="38.5px" src="https://img.shields.io/badge/X-red?style=flat-square&logo=gmail&logoColor=white">
     </a>
     <a href='https://wa.me/40747156969' target="_blank">
-        <img width ="152px" height="42px" src='https://img.shields.io/badge/Whatsapp-lime?style=flat-square&logo=whatsapp&logoColor=white'>
+        <img width ="152px" height="42px" src='https://img.shields.io/badge/Whatsapp-green?style=flat-square&logo=whatsapp&logoColor=white'>
     </a>
     <a href='https://t.me/soulcapridev' target="_blank">
         <img width ="152px" height="41.5px" src='https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white&&color=0181FF'>
